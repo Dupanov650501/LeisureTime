@@ -1,6 +1,14 @@
-# Диаграмма вариантов использования  
+# Содержание  
+
+[Диаграмма вариантов использования](#1)    
+[Диаграммы активностей](#2)  
+[Диаграммы последовательностей](#3)  
+[Диаграмма состояний](#4)  
+[Диаграмма классов](#5)  
+[Диаграмма компонентов](#6)  
+# Диаграмма вариантов использования  <a name = "1"></a>
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/USECASED.PNG)  
-# Диаграммы активностей  
+# Диаграммы активностей  <a name = "2"></a>
 
 #### 1. Авторизация  
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/AAuthorization.PNG)  
@@ -20,7 +28,7 @@
 #### 6. Окна справок
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/HELPABOU.PNG)
 
-# Диаграммы последовательностей
+# Диаграммы последовательностей <a name = "3"></a>
 
 
 #### 1. Очистка таблицы  
@@ -37,11 +45,11 @@
 
 #### 5. Окна справок 
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/%D0%9D%D0%9E%D0%92%D0%9E%D0%95%D0%9D%D0%9E%D0%92%D0%9E%D0%95.PNG)    
-# Диаграмма состояний
+# Диаграмма состояний <a name = "4"></a>
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/atint.png)   
 
-# Диаграмма классов
+# Диаграмма классов  <a name = "5"></a>
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/wqer.PNG)  
 
-# Диаграмма компонентов
+# Диаграмма компонентов  <a name = "6"></a>
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/Compppp.png)
