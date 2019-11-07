@@ -10,6 +10,8 @@
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/USECASED.PNG)  
 # Диаграммы активностей  <a name = "2"></a>
 
+[Поток событий](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/potok.md)
+
 #### 1. Авторизация  
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/AAuthorization.PNG)  
 
