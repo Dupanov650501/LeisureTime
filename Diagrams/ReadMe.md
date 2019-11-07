@@ -17,6 +17,8 @@
 #### 5. Поиск пользователя  
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/USERSEARCH.PNG)  
 
+#### 6. Окна справок
+![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/HELPABOU.PNG)
 
 # Диаграммы последовательностей
 
@@ -34,4 +36,12 @@
 ![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/NEW%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%B0.PNG)
 
 #### 5. Окна справок 
-![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/%D0%9D%D0%9E%D0%92%D0%9E%D0%95%D0%9D%D0%9E%D0%92%D0%9E%D0%95.PNG)  
+![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/%D0%9D%D0%9E%D0%92%D0%9E%D0%95%D0%9D%D0%9E%D0%92%D0%9E%D0%95.PNG)    
+# Диаграмма состояний
+![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/atint.png)   
+
+# Диаграмма классов
+![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/wqer.PNG)  
+
+# Диаграмма компонентов
+![](https://github.com/Dupanov650501/LeisureTime/blob/master/Diagrams/Compppp.png)
