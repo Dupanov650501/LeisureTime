@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+    <form method="post" action="Add">
+        <input type="hidden" value="@ViewBag.EventID" name="EventID" />
+        <table>
+            <tr>
+                <td><p>Enter title: </p></td>
+                <td><input type="text" name="Subject" /> </td>
+            </tr>
+            <tr>
+                <td><p>Enter review:</p></td>
+                <td><input type="text" name="Description" /> </td>
+            </tr>
+            <tr>
+                <td><p>Enter Date:</p></td>
+                <td><input type="date" name="Start" /> </td>
+            </tr>
+            <tr>
+                <td><input type="submit" value="Send" /> </td>
+                <td></td>
+            </tr>
+        </table>
+    </form>
+
